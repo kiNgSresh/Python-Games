@@ -1,0 +1,5 @@
+RULES:
+Choose between rock, paper and scissor only.
+paper wins over rock
+rock wins over scissors and
+scissors wins over paper.
