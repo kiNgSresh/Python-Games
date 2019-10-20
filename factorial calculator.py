@@ -9,3 +9,4 @@ def factorial(n):
             ft = ft*i
         print(ft)
 factorial(n)
+
