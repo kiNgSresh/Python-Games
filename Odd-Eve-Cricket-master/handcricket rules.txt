@@ -1,0 +1,6 @@
+The rules are as follows:
+1.Player can only use numbers between 1 and 6.
+2.The number chosen by the batsman is added to his score.
+3.The batsman will be OUT if and only if both the Player choose same number
+4.The second Player has to score more runs to win.
+           ENJOY.
