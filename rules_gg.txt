@@ -1,6 +1,0 @@
-RULES:
-Computer will choose a number between 0 and 10
-You have to guess the number.
-You only have 3 chances to guess correctly and beat the computer.
-
-
